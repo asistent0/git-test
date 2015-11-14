@@ -1,1 +1,2 @@
 ptint("Goodbye world")
+print("Goodbye")

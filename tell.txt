@@ -1,2 +1,0 @@
-print("Tell me")
-print("Help me")
